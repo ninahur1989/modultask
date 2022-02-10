@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\modyl\modyl\bin\Debug\net6.0\modyl.exe
+C:\Users\Admin\source\repos\modyl\modyl\bin\Debug\net6.0\modyl.deps.json
+C:\Users\Admin\source\repos\modyl\modyl\bin\Debug\net6.0\modyl.runtimeconfig.json
+C:\Users\Admin\source\repos\modyl\modyl\bin\Debug\net6.0\modyl.dll
+C:\Users\Admin\source\repos\modyl\modyl\bin\Debug\net6.0\ref\modyl.dll
+C:\Users\Admin\source\repos\modyl\modyl\bin\Debug\net6.0\modyl.pdb
+C:\Users\Admin\source\repos\modyl\modyl\obj\Debug\net6.0\modyl.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\modyl\modyl\obj\Debug\net6.0\modyl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\modyl\modyl\obj\Debug\net6.0\modyl.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\modyl\modyl\obj\Debug\net6.0\modyl.AssemblyInfo.cs
+C:\Users\Admin\source\repos\modyl\modyl\obj\Debug\net6.0\modyl.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\modyl\modyl\obj\Debug\net6.0\modyl.dll
+C:\Users\Admin\source\repos\modyl\modyl\obj\Debug\net6.0\ref\modyl.dll
+C:\Users\Admin\source\repos\modyl\modyl\obj\Debug\net6.0\modyl.pdb
+C:\Users\Admin\source\repos\modyl\modyl\obj\Debug\net6.0\modyl.genruntimeconfig.cache
